@@ -1,3 +1,3 @@
 <?php
 
-echo system('git status');
+echo system('git merge test');
